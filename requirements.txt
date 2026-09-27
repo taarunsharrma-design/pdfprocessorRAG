@@ -1,0 +1,13 @@
+streamlit>=1.30.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-google-genai>=0.0.8
+chromadb>=0.4.22
+pypdf>=4.0.0
+sentence-transformers>=2.3.1
+langchain-huggingface>=0.1,<2
+torch>=2.2,<3
+transformers>=4.40,<5
+langchain-chroma>=0.2,<2
+langchain-text-splitters>=0.3,<2
+git+https://github.com
